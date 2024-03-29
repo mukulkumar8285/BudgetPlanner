@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BudgetPlanner/static/css/main.016a0529.css",
+    "main.js": "/BudgetPlanner/static/js/main.06285628.js",
+    "static/js/453.e043bfe2.chunk.js": "/BudgetPlanner/static/js/453.e043bfe2.chunk.js",
+    "index.html": "/BudgetPlanner/index.html",
+    "main.016a0529.css.map": "/BudgetPlanner/static/css/main.016a0529.css.map",
+    "main.06285628.js.map": "/BudgetPlanner/static/js/main.06285628.js.map",
+    "453.e043bfe2.chunk.js.map": "/BudgetPlanner/static/js/453.e043bfe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.016a0529.css",
+    "static/js/main.06285628.js"
+  ]
+}
